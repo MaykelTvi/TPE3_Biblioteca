@@ -1,2 +1,2 @@
 # TPE3_Biblioteca
-TP3  proyecto de Biblioteca
+Integrantes: Menna Zujani, Bautista / Tvihaug, Maykel 
